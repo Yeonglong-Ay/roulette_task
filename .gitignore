@@ -1,0 +1,18 @@
+# Data — NEVER commit
+data/
+results/
+*.csv
+*.tsv
+*.ns3
+*.nev
+*.fif
+*.npy
+*.npz
+# Python
+__pycache__/
+*.pyc
+.DS_Store
+# Logs
+*.log
+*.out
+framelog.txt
